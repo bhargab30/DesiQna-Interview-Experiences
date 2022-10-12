@@ -1,0 +1,14 @@
+body {
+    font-family: "Work Sans", sans-serif;
+    line-height: 1.5;
+    
+}
+
+.navbar-nav{
+    display: flex;
+}
+
+.company_list{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
